@@ -1,11 +1,11 @@
 {
-    "name": "context",
-    "short_name": "context",
+    "name": "my_first_flutter_app",
+    "short_name": "my_first_flutter_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "CS 4750 Final Project",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

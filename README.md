@@ -1,6 +1,6 @@
-# context
+# my_first_flutter_app
 
-CS 4750 Final Project
+A new Flutter project.
 
 ## Getting Started
 

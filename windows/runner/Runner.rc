@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "jrebollar.com" "\0"
-            VALUE "FileDescription", "context" "\0"
+            VALUE "CompanyName", "com.jrebollar" "\0"
+            VALUE "FileDescription", "my_first_flutter_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "context" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 jrebollar.com. All rights reserved." "\0"
-            VALUE "OriginalFilename", "context.exe" "\0"
-            VALUE "ProductName", "context" "\0"
+            VALUE "InternalName", "my_first_flutter_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.jrebollar. All rights reserved." "\0"
+            VALUE "OriginalFilename", "my_first_flutter_app.exe" "\0"
+            VALUE "ProductName", "my_first_flutter_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
