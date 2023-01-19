@@ -67,7 +67,6 @@ class HomeScreen extends StatelessWidget {
                               width: 2,
                               color: Theme.of(context).primaryColor,
                             ),
-                            // shape: BoxShape.circle,
                             boxShadow: [
                               BoxShadow(
                                 color: Colors.grey.withOpacity(0.5),

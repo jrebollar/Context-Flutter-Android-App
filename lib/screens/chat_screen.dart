@@ -71,7 +71,6 @@ class _ChatScreenState extends State<ChatScreen> {
                       ),
                       child: CircleAvatar(
                         radius: 15,
-                        //backgroundImage: AssetImage(message.sender.imageUrl),
                       ),
                     ),
                   ],
@@ -127,7 +126,6 @@ class _ChatScreenState extends State<ChatScreen> {
                       ),
                       child: CircleAvatar(
                         radius: 15,
-                        //backgroundImage: AssetImage(message.sender.imageUrl),
                       ),
                     ),
                     SizedBox(
@@ -184,7 +182,6 @@ class _ChatScreenState extends State<ChatScreen> {
 
   @override
   Widget build(BuildContext context) {
-    int prevUserId;
     return Scaffold(
       backgroundColor: Color(0xFFF6F6F6),
       appBar: AppBar(
@@ -240,7 +237,6 @@ class _ChatScreenState extends State<ChatScreen> {
                 final Message message = messages[index];
                 final bool isMe = message.sender.id == currentUser.id;
                 const bool isSameUser = true;
-                prevUserId = message.sender.id;
                 return _chatBubble(message, isMe, isSameUser);
               },
             ),
