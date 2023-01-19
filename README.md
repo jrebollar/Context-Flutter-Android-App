@@ -1,16 +1,13 @@
-# my_first_flutter_app
+# Context Flutter Android App
 
-A new Flutter project.
+Context is a flutter app that is built to connect individuals through text!
 
-## Getting Started
+Due to time constraints, this application focuses on UI while relying on a local database to pull information such as messages, photos, and user information.
 
-This project is a starting point for a Flutter application.
+Steps to get the application running
+- Download Flutter and Android Studio
+- Clone this code into a folder
+- Open the folder in Android Studio
+- Set up and emulator and hit play!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The next goal of this application will be to continue developing and adding features to build a more fun flutter application!
